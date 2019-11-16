@@ -2,17 +2,18 @@
 Read Rules Carefully Given In the Pdf
 
 ## Contributers
-Archit Sangal
-Phani Sriram
+- Archit Sangal
+- Phani Sriram
 
 ## Special Thanks To Rohit Bhaiya for his help in making this project a real game
 Rohit Katlaa
 
+## NOTE:
 This Project deals with complex Physics Phenomenon of oblique collision. The code for Collision is a part of complex physics and a lot of projection calculation and it is not encouraged to change this code.
 
 Pull Request for collision will be accepted only if a video (pointing out to a bug) is provided with pull request.Also provide a explaination for the problem if possible.
 
-All other pull requests are welcomed and appreciated.....
+#All other pull requests are welcomed and appreciated.....
 
 
 ## Canvas Development
